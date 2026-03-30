@@ -84,7 +84,8 @@
 - **Hackathon & Entrepreneurship Judge/Mentor (2025):** EAN University, Externado University, and MinTIC Tech Talent
 - **Honor Roll, National University of Colombia:** 2nd and 3rd highest GPA among 928+ engineering students
 - **Top 1% Admission Exam, UNAL:** Ranked 341st out of 44,188 applicants and 14th out of 97 admitted to Computer Science & Engineering
-- **Double 2nd Place in Competitive Programming Marathon, Distrital University:** Competed with 30+ teams
+- **Double 2nd Place in Competitive Programming Marathon, Distrital University (07/2017 and 12/2017):** Competed with 30+ teams
+- **1st Best CEO and 2nd Best Project among 40+ projects, UNAL and INNpulsa:** Led a project on electric vehicle charging
 
 ---
 
